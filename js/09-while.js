@@ -5,10 +5,15 @@ var year = 2025;
 while (year <= 2051) {
     // Ejecuta esto
     console.log("Estamos en el año " + year);
-    // Incremento
-    year++;
+    // // Incremento
+    // year++;
+
+    if (year == 2000) {
+        break;
+    }
+
     // Decremento
-    // year--;
+    year--;
 }
 
 // Do while
