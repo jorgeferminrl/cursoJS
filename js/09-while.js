@@ -10,3 +10,10 @@ while (year <= 2051) {
     // Decremento
     // year--;
 }
+
+// Do while
+var years = 25;
+do {
+    alert("Solo cuando sea diferente a 20");
+    years--;
+} while (years > 20);
