@@ -10,4 +10,4 @@ console.log(miResultado);
 
 // INGRESO DATOS
 var edad = prompt("¿Qué edad tienes?", 40);
-console.log(edad);
+console.log(edad); 
